@@ -4,6 +4,12 @@ import com.kh.animal.Cat;
 import com.kh.animal.Dog;
 import com.kh.foo.Foo;
 
+/**
+ * 원격저장소 등록후 push할 수 있다.
+ * 
+ *
+ */
+
 public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World~");
